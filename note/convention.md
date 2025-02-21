@@ -1,0 +1,3 @@
+- any vs unknown
+- enum vs as const vs const enum
+- interface vs type
